@@ -54,8 +54,6 @@
     <Compile Include="PCH_Classi\Carattere.cs" />
     <Compile Include="PCH_Classi\Parola.cs" />
     <Compile Include="PCH_Classi\Resolver.cs" />
-    <Compile Include="PCH_Classi\SaccoCaratteri.cs" />
-    <Compile Include="PCH_Classi\Tabella.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
